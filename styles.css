@@ -1,0 +1,27 @@
+body{
+    height: 5000px;
+    background-color:black;
+}
+.navbar-brand{
+    display: flex;
+}
+.cards img{
+    height:60%;
+    width:50%;
+    margin:70px;
+    padding:10px;
+   
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    text-align: center;
+    gap:20px;
+}
+ .fav h1{
+    text-align: center;
+    padding:20px;
+    color: rgb(249, 17, 17);
+    font-weight: bold;
+}
